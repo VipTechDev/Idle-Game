@@ -63,8 +63,7 @@ Each character is a modular ritual — unlocked with coins, upgraded with multip
 ## 🛠️ To-Do
 
 - [ ] Add hover effects and sound rituals  
-- [ ] Port to Roblox Studio (Lua)  
-- [ ] Create printable cue cards for each character  
+- [ ] Port to Roblox Studio (Lua)    
 - [ ] Add flavor-coded class icons and progress bar polish  
 
 ## 🧙‍♂️ Credits
